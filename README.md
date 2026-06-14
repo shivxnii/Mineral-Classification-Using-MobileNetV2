@@ -2,9 +2,9 @@
 <div align="center">
 
 # MobileNetV2 Transfer Learning for Mineral Classification
-An AI-powered image classification system capable of identifying seven different mineral types using Deep Learning and Computer Vision.**
+An AI-powered image classification system capable of identifying seven different mineral types using Deep Learning and Computer Vision.
 
-*Final Test Accuracy: 85.42%**
+*Final Test Accuracy: 85.42%
 </div>
 
 #  Overview
@@ -19,7 +19,7 @@ The project demonstrates how transfer learning can be effectively applied to geo
 * Create a reusable model for future deployment.
 
 # Model Architecture
-The classifier is based on **MobileNetV2**, pretrained on ImageNet.
+The classifier is based on "MobileNetV2", pretrained on ImageNet.
 
 # Training Strategy
 
@@ -39,7 +39,7 @@ Additional techniques used:
 * Fine-Tuning
 
 # Dataset
-The dataset contains images belonging to **7 mineral categories**.
+The dataset contains images belonging to "7 mineral categories".
 
 # Classes
 * Biotite
@@ -123,11 +123,11 @@ These transformations improve model robustness and reduce overfitting.
 #  Results Analysis
 
 The model performs exceptionally well on:
-* ✅ Malachite
-* ✅ Pyrite
-* ✅ Quartz
-* ✅ Biotite
-* ✅ Chrysocolla
+*  Malachite
+*  Pyrite
+*  Quartz
+*  Biotite
+*  Chrysocolla
 
 The main challenge lies in distinguishing:
 * Bornite
